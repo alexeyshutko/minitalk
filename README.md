@@ -1,6 +1,4 @@
 # minitalk
 minitalk (42cursus) 2021
 
-- Actual Status : finished.
-- Result        : 100%
-- Observations : NULL
+Реализация передачи данных бинарным способом, клиент - сервер на одной машине, с помощью сигналов.
